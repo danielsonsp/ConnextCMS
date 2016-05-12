@@ -18,7 +18,7 @@
 * [Software Roadmap](https://github.com/skagitpublishing/ConnextCMS/wiki/Software-Roadmap) is available on the Wiki.
 
 ## Installation
-There are two ways to install ConnextCMS. The easy way is to [clone the demo droplet](http://connextcms.com/page/clone-your-own). The second is to build from source. 
+There are two ways to install ConnextCMS.  The easy way is to [clone the demo droplet](http://connextcms.com/page/clone-your-own). The second is to build from source. 
 
 ### Clone the Demo
 ConnextCMS is designed to run on a [Digital Ocean Droplet](https://m.do.co/c/8f47a23b91ce) VPS. A snapshot has been created that you can clone and spin up in a few minutes with all software and dependencies installed. Visit [ConnextCMS.com](http://connextcms.com) and [fill out this form](http://connextcms.com/page/clone-your-own). 
